@@ -16,6 +16,6 @@ This is my **first repository**!
 1. Another list item
 
 1. Yet another list item
-1.   /\__/\    
-1.  /o w o \   
-1.  \\/_\/_/   
+1.   /	\	__	/	\    
+1.  /	o 	w 	o 	\   
+1.  \	\	/	_	\	/	_	/   
